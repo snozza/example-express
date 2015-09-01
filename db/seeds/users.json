@@ -1,0 +1,117 @@
+[{
+  "firstname": "Ming",
+  "lastname": "Chan",
+  "username": "mrchain",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "ATC",
+    "cover": [
+      "ATC", "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Andrew",
+  "lastname": "Snead",
+  "username": "snozza",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "ATC",
+    "cover": [
+      "ATC", "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Nick",
+  "lastname": "Dyer",
+  "username": "dyerstraits",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "ATC",
+    "cover": [
+      "ATC", "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Michael",
+  "lastname": "Jordan",
+  "username": "michael",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "ATC",
+    "cover": [
+      "ATC", "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Eric",
+  "lastname": "Lagel",
+  "username": "eric",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "OCO",
+    "cover": [
+      "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Yusuf",
+  "lastname": "Dean",
+  "username": "yusuf",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "OCO",
+    "cover": [
+      "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Tiger",
+  "lastname": "Woods",
+  "username": "tiger",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "SOO",
+    "cover": [
+      "OCO, ATC"
+    ]
+  }
+},
+{
+  "firstname": "Roger",
+  "lastname": "Moore",
+  "username": "roger",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "OCO",
+    "cover": [
+      "OCO"
+    ]
+  }
+},
+{
+  "firstname": "Rachel",
+  "lastname": "Nolan",
+  "username": "nobby",
+  "password": "123456",
+  "userType": "employee",
+  "jobRole": {
+    "role": "SFP",
+    "cover": [
+      "SFP", "OCO", "ATC"
+    ]
+  }
+}]

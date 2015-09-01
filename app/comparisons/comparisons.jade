@@ -1,0 +1,10 @@
+extends ../site/layout 
+block variables
+  - title = "Comparisons" 
+block body
+  section#comparison-container
+block append scripts
+  script.initial-state(type="application/json").
+  script.
+    require("/app/browser/comparisonApp.jsx")
+

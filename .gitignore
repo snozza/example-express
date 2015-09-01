@@ -1,0 +1,8 @@
+bower_components
+node
+node_modules
+logs/*.log
+Dockerfile
+fig.yml
+wwwroot/*.js
+wwwroot/*.css

@@ -1,0 +1,19 @@
+extends ./layout
+block variables
+  - title = "expressStructure"
+block body
+  section.intro
+    p.highlight Example Express App (modular)
+    :markdown-it
+      Just a sample folder structure, somewhat based on MOVE architecture.
+      Aim is group by coupling, rather than function. This enables the app
+      to be more 'modular' with an easier transition to microservices down the track.
+
+      ### TODO
+      * Everything
+      ### Example
+      * To be implemented
+
+block append scripts
+  script.
+    require("/app/browser/home")()

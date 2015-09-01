@@ -1,0 +1,45 @@
+{
+  "name": "BBC_Financials",
+  "version": "0.0.1",
+  "description": "BBC Financials",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "./bin/test.sh",
+    "start": "./app/server.js | bistre",
+    "lint": "./bin/lint.sh",
+    "build": "./bin/build_js.sh"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "express.js"
+  ],
+  "author": "Atos",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.1.0",
+    "bole": "2.0.0",
+    "compression": "^1.4.4",
+    "elasticsearch": "^5.0.0",
+    "express": "4.11.0",
+    "jade": "^1.10.0",
+    "jstransformer-markdown-it": "0.0.2",
+    "markdown-it": "^4.2.1",
+    "mongodb": "^2.0.33",
+    "mongoose": "^4.0.4",
+    "nib": "^1.1.0",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "stylus": "^0.51.1"
+  },
+  "devDependencies": {
+    "bistre": "1.0.1",
+    "chai": "^3.0.0",
+    "eslint": "0.12.0",
+    "mocha": "^2.2.5",
+    "reactify": "^1.1.1",
+    "sinon": "^1.14.1",
+    "supertest": "^1.0.1"
+  }
+}
